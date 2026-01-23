@@ -5,8 +5,7 @@
 ## 📸 Screenshots
 
 | Halaman Utama (Desktop) | Tampilan Mobile (Responsif) |
-| :---: | :---: |
-| <img width="1365" height="684" alt="image" src="https://github.com/user-attachments/assets/61241aab-b5b4-40d0-99ce-9bcfc2363084" />
+| :---: | :---: |<img width="1365" height="684" alt="image" src="https://github.com/user-attachments/assets/61241aab-b5b4-40d0-99ce-9bcfc2363084" />
 | <img width="624" height="681" alt="image" src="https://github.com/user-attachments/assets/9acc6abf-66ef-45b2-a858-83be439560c1" />
  |
 
