@@ -2,7 +2,6 @@
 
 **My Daily Routine** adalah aplikasi web sederhana namun fungsional untuk mengelola jadwal kegiatan sehari-hari. Proyek ini dibangun menggunakan framework **PHP Laravel** untuk mendemonstrasikan implementasi konsep **CRUD (Create, Read, Update, Delete)** yang solid, validasi data, serta tampilan antarmuka (UI) yang responsif.
 
-## 📸 Screenshots
 
 | Halaman Utama (Desktop) | Tampilan Mobile (Responsif) |
 | :---: | :---: |
